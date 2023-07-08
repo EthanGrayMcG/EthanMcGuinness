@@ -60,7 +60,7 @@
     border-right: 0 solid white;
 }
 ::-webkit-scrollbar-thumb {
-    background: #cee002;
+    background: #004AAD;
     width: 0;
     height: 25%;
     transition: .5s ease;
@@ -169,10 +169,10 @@ section{padding: 7.5rem 0;}
 
 /* Transparent button */
 .btn.btn-trans {background: transparent; border-color: #ffffff; color: #ffffff;}
-.btn.btn-trans:hover {background: #cee002 !important; border-color: #cee002; color: #181a1f !important}
+.btn.btn-trans:hover {background: #004AAD !important; border-color: #004AAD; color: #181a1f !important}
 
 /* Yellow button */
-.btn.btn-yellow {background: #cee002; border-color: #cee002; color: #181a1f;}
+.btn.btn-yellow {background: #004AAD; border-color: #004AAD; color: #181a1f;}
 .btn.btn-yellow:hover {background: #23262d !important; border-color: #ffffff; color: #ffffff !important}
 
 /* button size */
@@ -182,12 +182,12 @@ section{padding: 7.5rem 0;}
 .btn.btn-rounded {border-radius: 50px;}
 
 /* Text color */
-.text-yellow {color: #cee002;}
+.text-yellow {color: #004AAD;}
 .text-black {color: #000000;}
 .text-white {color: #ffffff;}
 
 /* Background color */
-.bg-yellow {background: #cee002;}
+.bg-yellow {background: #004AAD;}
 .bg-black {background: #181a1f;}
 .bg-light-black {background: #23262d;}
 .bg-transparent {background: transparent;}
@@ -268,7 +268,7 @@ header{
 .line:hover:after, .line.active:after {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    border-color: #cee002;
+    border-color: #004AAD;
     -webkit-transition: width 350ms ease-in-out;
     transition: width 350ms ease-in-out;
     width: 100%;
@@ -313,7 +313,7 @@ header{
     color: #FFFFFF;
 }
 .banner-icons a i:hover{
-    background-color: #cee002;
+    background-color: #004AAD;
     color: #23262d;
 }
 
@@ -616,7 +616,7 @@ header{
     Fixed nav scroll
 ====================================== */
 .fixed-nav-on-scroll{
-    background-color: #cee002;
+    background-color: #004AAD;
     position: fixed;
     top: 0;
     z-index: 111;
@@ -735,7 +735,7 @@ header{
 }
 
 .quarter-circle {
-    background-color: #cee002;
+    background-color: #004AAD;
     position: fixed;
     top: 0;
     z-index: 1111;
@@ -799,7 +799,7 @@ header{
 /*    height:100%;*/
 /*    z-index:-1;*/
 /*    border-radius: 50px;*/
-/*    background: #cee002;*/
+/*    background: #004AAD;*/
 /*    position:absolute;*/
 /*    transition-duration: .3s;*/
 /*    -webkit-transition-duration: .3s;*/
@@ -881,7 +881,7 @@ header{
     padding-right: 15px;
     font-weight: 700;
     content: '\f061';
-    color: #cee002;
+    color: #004AAD;
     opacity: 1;
     font-family: "Font Awesome 5 Free";
 }
@@ -1027,12 +1027,12 @@ figure.about-image.hover .curl {
     transform: translateY(calc(100% - 0px));
     width: 100%;
     height: 100%;
-    background: #cee002;
+    background: #004AAD;
     transition: transform .25s ease-out;
 }
 
 .about-box:hover i {
-    color: #cee002;
+    color: #004AAD;
     transition: .5s ease;
 }
 
@@ -1101,7 +1101,7 @@ figure.about-image.hover .curl {
 }
 
 .team-sec .team-classic-content.yellow:before {
-    background: #cee002;
+    background: #004AAD;
 }
 
 .team-classic-content h3 {
@@ -1327,15 +1327,15 @@ figure.about-image.hover .curl {
 }
 
 .cube-portfolio1 .cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active{
-    color: #cee002;
+    color: #004AAD;
 }
 
 .cube-portfolio1 .cbp-l-filters-button .cbp-filter-item:hover{
-    color : #cee002;
+    color : #004AAD;
 }
 
 .cube-portfolio1 .cbp-l-grid-mosaic-flat .cbp-caption-activeWrap {
-    background: #cee002;
+    background: #004AAD;
 }
 
 .cube-portfolio1 .cbp-caption-zoom .cbp-caption:hover .cbp-caption-activeWrap {
@@ -1482,7 +1482,7 @@ figure.about-image.hover .curl {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #cee002;
+    background: #004AAD;
     opacity: .3;
 }
 
@@ -1569,11 +1569,11 @@ figure.about-image.hover .curl {
     margin: 20px 0;
     width: 50px;
     height: 3px;
-    background-color: #cee002;
+    background-color: #004AAD;
 }
 
 .parallax-box:hover i, .parallax-box:hover h2 {
-    color: #cee002;
+    color: #004AAD;
     cursor: default;
     transition: .5s ease;
 }
@@ -1623,7 +1623,7 @@ figure.about-image.hover .curl {
 }
 
 .testimonial .testimonial-owl button.owl-dot.active {
-    background-color: #cee002!important;
+    background-color: #004AAD!important;
 }
 
 .testimonial .paragraph {
@@ -1752,7 +1752,7 @@ figure.about-image.hover .curl {
 }
 
 .pricing .price-item:hover .actual_price {
-    color: #cee002;
+    color: #004AAD;
     transition: .5s ease;
 }
 
@@ -1944,7 +1944,7 @@ figure.about-image.hover .curl {
     bottom: 100%;
     top: 100%;
     z-index: 1;
-    background: #cee002;
+    background: #004AAD;
     border-radius: 50%;
     transition: .3s ease;
 }
@@ -1985,7 +1985,7 @@ figure.about-image.hover .curl {
 
 .pinkBg {
     background-color: #f1c30f!important;
-    background-image: linear-gradient(90deg, #cee002, #cee002);
+    background-image: linear-gradient(90deg, #004AAD, #004AAD);
 }
 
 .intro-banner-vdo-play-btn{
@@ -2066,7 +2066,7 @@ figure.about-image.hover .curl {
     right: 15px;
     border-radius: 50%;
     color: #23262d;
-    background-color: #cee002;
+    background-color: #004AAD;
     z-index: 4;
     width: 40px;
     text-align: center;
@@ -2290,7 +2290,7 @@ figure.about-image.hover .curl {
 
 .page-breadcrumb li a .icon{
     margin-right: 4px;
-    color: #cee002;
+    color: #004AAD;
 }
 
 .page-breadcrumb li a:hover{
