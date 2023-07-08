@@ -1,1 +1,1 @@
-# Ethan McGuinness Technology and Design || ethanmcg.com
+# Ethan McGuinness || ethanmcg.com
